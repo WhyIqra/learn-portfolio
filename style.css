@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(209, 216, 216);
+    
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#red{
+    color: red;
+}
+#blue{
+    color:rgb(97, 160, 232);
+}
+#green{
+    color:green
+}
+img{
+    height: 300px;
+    width: 300px;
+}
